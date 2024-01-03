@@ -3,3 +3,11 @@ div{
     padding: 10px;
     margin-bottom: 5px;
 }
+.image{
+    height: 100px;
+    width: 100px;
+}
+img{
+    max-height: 300px;
+    max-width: 200px;
+}
